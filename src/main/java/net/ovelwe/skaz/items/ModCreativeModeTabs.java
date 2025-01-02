@@ -19,6 +19,10 @@ public class ModCreativeModeTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.KSENTARIT.get());
                         pOutput.accept(ModItems.GOLD_COIN.get());
+                        pOutput.accept(ModItems.FLORIT.get());
+                        pOutput.accept(ModItems.OKEANIT.get());
+                        pOutput.accept(ModItems.VULKANIT.get());
+                        pOutput.accept(ModItems.MOON_CRYSTAL.get());
                     })
                     .build());
 

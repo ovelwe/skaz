@@ -1,6 +1,10 @@
 {
   "item.skaz.gold_coin": "52 Рубля",
   "item.skaz.ksentarit": "Ксентарит",
+  "item.skaz.florit": "Флорит",
+  "item.skaz.okeanit": "Океанит",
+  "item.skaz.vulkanit": "Вулканит",
+  "item.skaz.moon_crystal": "Лунный кристалл",
 
   "creativetab.skaz_tab": "Skaz Предметы"
 }

@@ -17,6 +17,18 @@ public class ModItems {
     public static final RegistryObject<Item> KSENTARIT = ITEMS.register("ksentarit",
             () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> FLORIT = ITEMS.register("florit",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> OKEANIT = ITEMS.register("okeanit",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> VULKANIT = ITEMS.register("vulkanit",
+            () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> MOON_CRYSTAL = ITEMS.register("moon_crystal",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

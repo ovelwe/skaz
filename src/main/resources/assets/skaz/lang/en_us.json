@@ -1,6 +1,10 @@
 {
   "item.skaz.gold_coin": "52 Coin",
   "item.skaz.ksentarit": "Ksentarit",
+  "item.skaz.florit": "Florit",
+  "item.skaz.okeanit": "Okeanit",
+  "item.skaz.vulkanit": "Vulkanit",
+  "item.skaz.moon_crystal": "Moon Crystal",
 
   "creativetab.skaz_tab": "Skaz Items"
 }
