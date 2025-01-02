@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="skaz" width="150">
+  <img src="logo.png" alt="skaz" width="50">
 </div>
 
 ###
